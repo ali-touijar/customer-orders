@@ -1,0 +1,47 @@
+======== SALES REPORT ========
+
+Total Revenue: 20309.0
+Total Orders: 8
+Average Order Value: 2538.625
+
+--- Revenue by City ---
+city
+Fes          15300.0
+Marrakech     1790.0
+Casa          1200.0
+Tanger        1200.0
+Rabat          795.0
+Unknown         24.0
+Name: total_price, dtype: float64
+
+--- Top 3 Cities ---
+city
+Fes          15300.0
+Marrakech     1790.0
+Casa          1200.0
+Name: total_price, dtype: float64
+
+--- Revenue by Month ---
+year_month
+2026-01    15750.0
+2026-02     2990.0
+2026-03     1500.0
+2026-04       69.0
+Freq: M, Name: total_price, dtype: float64
+
+--- Data Quality & Missing Values ---
+Initial Missing Values:
+order_id       0
+customer_id    0
+product        0
+quantity       0
+unit_price     0
+order_date     0
+name           1
+city           1
+month          0
+year_month     0
+total_price    0
+expensive      0
+dtype: int64
+Orders with unmatched customer profile: 1

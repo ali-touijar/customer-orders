@@ -1,0 +1,9 @@
+order_id,customer_id,product,quantity,unit_price,order_date,name,city,month,year_month,total_price,expensive
+1,101,Laptop,2,7500.0,2026-01-15,Ali,Fes,1,2026-01,15000.0,True
+2,102,Mouse,5,150.0,2026-01-20,Sara,Rabat,1,2026-01,750.0,False
+3,103,Keyboard,3,400.0,2026-02-05,Youssef,Casa,2,2026-02,1200.0,True
+4,104,Monitor,1,1790.0,2026-02-18,Omar,Marrakech,2,2026-02,1790.0,True
+5,101,Mouse,2,150.0,2026-03-02,Ali,Fes,3,2026-03,300.0,False
+6,105,Headphones,2,600.0,2026-03-12,Hassan,Tanger,3,2026-03,1200.0,True
+7,102,Notebook,10,4.5,2026-04-01,Sara,Rabat,4,2026-04,45.0,False
+8,106,Pen,20,1.2,2026-04-10,Unknown,Unknown,4,2026-04,24.0,False
